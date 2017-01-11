@@ -1,0 +1,16 @@
+{
+  "name": "get-fb-group-members",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getMembers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harrison Liddiard <omniaura5@gmail.com> (http://harrisonliddiard.com)",
+  "license": "ISC",
+  "dependencies": {
+    "fb": "^1.1.1",
+    "jsonfile": "^2.4.0",
+    "superagent": "^3.3.2"
+  }
+}

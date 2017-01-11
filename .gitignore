@@ -1,4 +1,4 @@
-*.json
+members_*.json
 *.swp
 .DS_Store
 node_modules/
